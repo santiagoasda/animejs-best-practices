@@ -770,6 +770,17 @@ Comprehensive API documentation fetched from animejs.com:
 | **WAAPI** | `docs/web-animation-api/README.md` | Hardware acceleration, API differences |
 | **Engine** | `docs/engine/README.md` | Engine config, time units, FPS |
 
+### MDN Web Animations API (references/docs/web-animations-api/)
+
+Native browser Web Animations API documentation from MDN:
+
+| Category | File | Content |
+|----------|------|---------|
+| **Guides** | `docs/web-animations-api/guides/README.md` | Overview, concepts, keyframe formats, tips |
+| **Interfaces** | `docs/web-animations-api/interfaces/animation.md` | Animation, AnimationEffect, KeyframeEffect |
+| **Interfaces** | `docs/web-animations-api/interfaces/timelines.md` | AnimationTimeline, DocumentTimeline, ScrollTimeline, ViewTimeline |
+| **Methods** | `docs/web-animations-api/methods/README.md` | Element.animate(), getAnimations(), events |
+
 ### Best Practice Guides (references/)
 
 For patterns and techniques beyond the API docs:

@@ -37,21 +37,12 @@ animejs-best-practices/
 │   ├── react-integration.jsx
 │   └── scroll-reveal.js
 └── references/
-    ├── docs/                # Official anime.js v4 API documentation
-    │   ├── getting-started/
-    │   ├── animation/
-    │   ├── timeline/
-    │   ├── animatable/
-    │   ├── draggable/
-    │   ├── layout/
-    │   ├── scope/
-    │   ├── events/
-    │   ├── svg/
-    │   ├── text/
-    │   ├── utilities/
-    │   ├── easings/
-    │   ├── web-animation-api/
-    │   └── engine/
+    ├── docs/
+    │   ├── [anime.js v4 docs]   # 18 files from animejs.com
+    │   └── web-animations-api/  # MDN Web Animations API
+    │       ├── guides/          # Concepts, keyframes, tips
+    │       ├── interfaces/      # Animation, KeyframeEffect, Timelines
+    │       └── methods/         # Element.animate(), getAnimations()
     └── [best practice guides]
 ```
 
@@ -80,7 +71,7 @@ waapi.animate('.el', { opacity: 1, duration: 2000 });
 
 ## Documentation Coverage
 
-This repository includes complete documentation for all anime.js v4 features:
+### anime.js v4 (from animejs.com)
 
 - **Core**: Timer, Animation, Timeline
 - **Interactive**: Animatable, Draggable
@@ -92,6 +83,13 @@ This repository includes complete documentation for all anime.js v4 features:
 - **Easings**: Built-in eases, cubic-bezier, spring physics
 - **WAAPI**: Hardware-accelerated Web Animations API wrapper
 - **Engine**: Global configuration, time units, FPS
+
+### Native Web Animations API (from MDN)
+
+- **Guides**: Overview, concepts, keyframe formats, tips and tricks
+- **Interfaces**: Animation, AnimationEffect, KeyframeEffect, AnimationTimeline, DocumentTimeline, ScrollTimeline, ViewTimeline
+- **Methods**: Element.animate(), Element.getAnimations(), Document.getAnimations()
+- **Events**: AnimationEvent, AnimationPlaybackEvent
 
 ## Using as an AI Skill
 
@@ -105,10 +103,16 @@ Reference the `SKILL.md` file in your system prompt or context to enable anime.j
 
 ## Attribution
 
-- **anime.js** is created by [Julian Garnier](https://github.com/juliangarnier)
+### anime.js
+- Created by [Julian Garnier](https://github.com/juliangarnier)
 - Official website: [animejs.com](https://animejs.com/)
 - Official repository: [github.com/juliangarnier/anime](https://github.com/juliangarnier/anime)
 - Documentation source: [animejs.com/documentation](https://animejs.com/documentation)
+
+### Web Animations API
+- Documentation from [MDN Web Docs](https://developer.mozilla.org/)
+- Source: [MDN Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+- Licensed under [CC-BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)
 
 ## License
 
